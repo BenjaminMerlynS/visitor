@@ -1,4 +1,6 @@
-# Useful:Visitor
+# Merlyn:Visitor
+
+`merlyn:visitor` is forked from `useful:visitor` in order to make it compatible with meteor 2.4 or higher.
 
 Simple user tracking baked into your app so you can control and manipulate the data.
 
@@ -16,12 +18,12 @@ Visitor.init({
 });
 ```
 
-Adds the packages `useful:visitor-client` and `useful:visitor-server` to your app automatically.
+Adds the packages `merlyn:visitor-client` and `merlyn:visitor-server` to your app automatically.
 
 # Installation
 
 ```
-meteor add useful:visitor
+meteor add merlyn:visitor
 ```
 
 # What you can do
